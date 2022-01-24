@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuProfile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/profile"/>
+    <item
+        android:id="@+id/menuSettings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/settings"/>
+    <item
+        android:id="@+id/menuStatement"
+        android:icon="@drawable/ic_baseline_edit_note_24"
+        android:title="@string/edit"/>
+    <item
+        android:id="@+id/menuCode"
+        android:icon="@drawable/ic_baseline_qr_code_24"
+        android:title="@string/code"/>
+    <item android:title="">
+        <menu>
+    <item
+        android:id="@+id/menuFAQs"
+        android:icon="@drawable/ic_baseline_more_24"
+        android:title="@string/FAQs"/>
+    <item
+        android:id="@+id/menuOur"
+        android:icon="@drawable/ic_baseline_border_color_24"
+        android:title="@string/ourhandbook"/>
+    <item
+        android:id="@+id/menuCommunity"
+        android:icon="@drawable/ic_baseline_groups_24"
+        android:title="@string/community"/>
+        </menu>
+    </item>
+</menu>

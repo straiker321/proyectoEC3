@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_border_color_24.xml" value="0.39010416666666664" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_chevron_left_24.xml" value="0.33611111111111114" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_edit_note_24.xml" value="0.39010416666666664" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.39010416666666664" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_groups_24.xml" value="0.39010416666666664" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_more_24.xml" value="0.39010416666666664" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.39010416666666664" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_qr_code_24.xml" value="0.39010416666666664" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.33611111111111114" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.39010416666666664" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/activity_main.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/activity_main2.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/card_view.xml" value="0.47504621072088726" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/content_main.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/fragment_community.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/fragment_dashboard.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/fragment_first.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/fragment_home.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/fragment_inicio.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/fragment_notifications.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/fragment_profile.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/fragment_second.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/layout/layout_navigation.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/menu/bottom_nav_menu.xml" value="0.32175925925925924" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/proyecto/app/src/main/res/menu/navigation_menu.xml" value="0.37395833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
